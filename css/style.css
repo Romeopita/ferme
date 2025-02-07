@@ -98,6 +98,10 @@ a{
     .w-100{
     height: 60vh;
     }
+    .carousel-item{
+    height: 60vh;
+    min-width: 300px;
+    }
 
 }
 
