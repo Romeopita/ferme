@@ -101,6 +101,9 @@ a{
     .carousel-item{
         height: 60vh;
     }
+    .carousel-inner{
+        height: 60vh;
+    }
 
 }
 
