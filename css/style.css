@@ -82,7 +82,7 @@ a{
 }
 @media only screen and (max-width: 767px){
     .carousel-caption{
-        bottom: 500px;
+        bottom: 400px;
     }
     .carousel-caption h1{
         font-size: 1.3rem;
